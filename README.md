@@ -52,7 +52,7 @@
 
 ## ⚙️ 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡
 
-<table width="100%"><tr><td align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="55" alt="javascript" />&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="55" alt="typescript" />&nbsp;
@@ -85,7 +85,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="55" alt="postman" />&nbsp;
   <img src="https://cdn.simpleicons.org/jest/C21325" height="55" alt="jest" />&nbsp;
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm" />
-</td></tr></table>
+</div>
 
 ## 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
