@@ -58,52 +58,42 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python" title="Python" />&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="55" alt="javascript" title="JavaScript" />&nbsp;
 <img src="https://cdn.simpleicons.org/typescript/3178C6" height="55" alt="typescript" title="TypeScript" />&nbsp;
-<sub><b>𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨</b></sub>&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5" title="HTML5" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css" title="CSS3" />
-
-<br/><br/>
 
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="55" alt="react" title="React" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs" title="Next.js" />&nbsp;
 <img src="https://cdn.simpleicons.org/redux/764ABC" height="55" alt="redux" title="Redux" />&nbsp;
-<sub><b>𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙</b></sub>&nbsp;
+&nbsp;
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" alt="tailwind" title="Tailwind CSS" />&nbsp;
 <img src="https://cdn.simpleicons.org/sass/CC6699" height="55" alt="sass" title="Sass" />
-
-<br/><br/>
 
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="55" alt="nodejs" title="Node.js" />&nbsp;
 <img src="https://cdn.simpleicons.org/express/FFFFFF" height="55" alt="express" title="Express" />&nbsp;
 <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="55" alt="nestjs" title="NestJS" />&nbsp;
-<sub><b>𝘽𝙖𝙘𝙠𝙚𝙣𝙙</b></sub>&nbsp;
+&nbsp;
 <img src="https://cdn.simpleicons.org/fastapi/009688" height="55" alt="fastapi" title="FastAPI" />&nbsp;
 <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" height="55" alt="socketio" title="Socket.IO" />
-
-<br/><br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql" title="PostgreSQL" />&nbsp;
 <img src="https://cdn.simpleicons.org/mongodb/47A248" height="55" alt="mongodb" title="MongoDB" />&nbsp;
 <img src="https://cdn.simpleicons.org/prisma/FFFFFF" height="55" alt="prisma" title="Prisma" />&nbsp;
-<sub><b>𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 & 𝙊𝙍𝙈</b></sub>&nbsp;
+&nbsp;
 <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="55" alt="supabase" title="Supabase" />&nbsp;
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="55" alt="firebase" title="Firebase" />
-
-<br/><br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="docker" title="Docker" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux" title="Linux" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" alt="bash" title="Bash" />&nbsp;
-<sub><b>𝘿𝙚𝙫𝙊𝙥𝙨 & 𝘿𝙚𝙥𝙡𝙤𝙮</b></sub>&nbsp;
+&nbsp;
 <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="55" alt="vercel" title="Vercel" />&nbsp;
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="55" alt="netlify" title="Netlify" />
-
-<br/><br/>
 
 <img src="https://cdn.simpleicons.org/git/F05032" height="55" alt="git" title="Git" />&nbsp;
 <img src="https://cdn.simpleicons.org/github/FFFFFF" height="55" alt="github" title="GitHub" />&nbsp;
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="55" alt="postman" title="Postman" />&nbsp;
-<sub><b>𝙏𝙤𝙤𝙡𝙨</b></sub>&nbsp;
+&nbsp;
 <img src="https://cdn.simpleicons.org/jest/C21325" height="55" alt="jest" title="Jest" />&nbsp;
 <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm" title="npm" />
 
