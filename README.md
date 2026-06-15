@@ -12,17 +12,20 @@
 
 <h3 align="center">⚡ 𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 — I spend most of my time coding and love building new applications.</h3>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <!-- PROFILE VIEWS -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-niloy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/dev-niloy?tab=followers">
     <img src="https://img.shields.io/github/followers/dev-niloy?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
+<!-- ABOUT ME + GIF — FULL WIDTH 2-COL -->
 ## 🌟 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
 
 - :hearts:&nbsp; I enjoy programming and love to learn new things
 - 🌱&nbsp; Currently learning **Node.js & Redux**
@@ -31,20 +34,25 @@
 - 📧&nbsp; Reach me: **md.niloyroy.digi.dev@gmail.com**
 - ⚡&nbsp; Fun fact: I debug better with chai ☕
 
-<br clear="right"/>
+  </td>
+    <td width="40%" align="right" valign="middle">
+      <img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+    </td>
+  </tr>
+</table>
 
 ## 🤝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
-<p align="left">
-  <a href="https://www.facebook.com/niloy.oneo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/oneo-niloy-roy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:md.niloyroy.digi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.facebook.com/niloy.oneo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/oneo-niloy-roy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:md.niloyroy.digi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/dev-niloy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ## ⚙️ 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡
 
-<div align="center">
+<table width="100%"><tr><td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="55" alt="javascript" />&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="55" alt="typescript" />&nbsp;
@@ -77,21 +85,27 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="55" alt="postman" />&nbsp;
   <img src="https://cdn.simpleicons.org/jest/C21325" height="55" alt="jest" />&nbsp;
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm" />
-</div>
+</td></tr></table>
 
 ## 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
-<p align="center">
-  <a href="https://github.com/dev-niloy">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-niloy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/dev-niloy">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-niloy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/dev-niloy">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dev-niloy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=500" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/dev-niloy">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-niloy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-niloy&theme=tokyonight&hide_border=true" alt="streak" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=dev-niloy&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
