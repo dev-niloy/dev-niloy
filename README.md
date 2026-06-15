@@ -117,7 +117,7 @@
 ## 🌌 𝟑𝐃 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-niloy/dev-niloy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contrib graph" />
+  <img src="https://raw.githubusercontent.com/dev-niloy/dev-niloy/main/profile-3d-contrib/profile-night-rainbow.svg?v=stripped" alt="3d contrib graph" />
 </p>
 
 ## ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
