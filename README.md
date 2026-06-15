@@ -36,18 +36,17 @@
 - ⚡&nbsp; Fun fact: I debug better with chai ☕
 
   </td>
-    <td width="40%" align="right" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img alt="Coding" width="100%" style="border-radius:20px;" src="https://raw.githubusercontent.com/dev-niloy/dev-niloy/main/assets/coding-rounded.svg" />
+      <br/><br/>
+      <a href="https://www.facebook.com/niloy.oneo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+      <a href="https://www.linkedin.com/in/oneo-niloy-roy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <br/><br/>
+      <a href="mailto:niloyroy.digi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+      <a href="https://github.com/dev-niloy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://www.facebook.com/niloy.oneo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/oneo-niloy-roy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:md.niloyroy.digi.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/dev-niloy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ## ⚙️ 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡
 
