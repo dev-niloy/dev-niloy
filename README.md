@@ -114,11 +114,11 @@
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=dev-niloy&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-## 🏆 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬
+## 📈 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
 
 <p align="center">
   <a href="https://github.com/dev-niloy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dev-niloy&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-niloy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
   </a>
 </p>
 
