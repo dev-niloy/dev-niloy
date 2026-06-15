@@ -29,10 +29,10 @@
     <td width="60%" valign="middle">
 
 - :hearts:&nbsp; I enjoy programming and love to learn new things
-- 🌱&nbsp; Currently learning **Node.js & Redux**
+- 🌱&nbsp; Currently learning **FastApi**
 - 🌿&nbsp; Love reading books and tending my little garden
 - 💬&nbsp; Ask me about **JavaScript, React, Node.js, Python**
-- 📧&nbsp; Reach me: **md.niloyroy.digi.dev@gmail.com**
+- 📧&nbsp; Reach me: **niloyroy.digi.dev@gmail.com**
 - ⚡&nbsp; Fun fact: I debug better with chai ☕
 
   </td>
