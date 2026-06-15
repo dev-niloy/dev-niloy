@@ -53,50 +53,53 @@
 
 ## ⚙️ 𝐓𝐡𝐢𝐧𝐠𝐬 𝐈 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡
 
-<table width="100%">
-  <tr>
-    <td align="center" width="20%"><img width="200" height="1" alt=""/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" alt="python" title="Python" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="20%"><img width="200" height="1" alt=""/><br/><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="65" alt="javascript" title="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="20%"><img width="200" height="1" alt=""/><br/><img src="https://cdn.simpleicons.org/typescript/3178C6" height="65" alt="typescript" title="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="20%"><img width="200" height="1" alt=""/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5" title="HTML5" /><br/><sub><b>HTML5</b></sub></td>
-    <td align="center" width="20%"><img width="200" height="1" alt=""/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="css" title="CSS3" /><br/><sub><b>CSS3</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/react/61DAFB" height="65" alt="react" title="React" /><br/><sub><b>React</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="65" alt="nextjs" title="Next.js" /><br/><sub><b>Next.js</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/redux/764ABC" height="65" alt="redux" title="Redux" /><br/><sub><b>Redux</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="65" alt="tailwind" title="Tailwind CSS" /><br/><sub><b>Tailwind</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/sass/CC6699" height="65" alt="sass" title="Sass" /><br/><sub><b>Sass</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="65" alt="nodejs" title="Node.js" /><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/express/FFFFFF" height="65" alt="express" title="Express" /><br/><sub><b>Express</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/nestjs/E0234E" height="65" alt="nestjs" title="NestJS" /><br/><sub><b>NestJS</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/fastapi/009688" height="65" alt="fastapi" title="FastAPI" /><br/><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" height="65" alt="socketio" title="Socket.IO" /><br/><sub><b>Socket.IO</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="65" alt="postgresql" title="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="65" alt="mongodb" title="MongoDB" /><br/><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/prisma/FFFFFF" height="65" alt="prisma" title="Prisma" /><br/><sub><b>Prisma</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="65" alt="supabase" title="Supabase" /><br/><sub><b>Supabase</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/firebase/FFCA28" height="65" alt="firebase" title="Firebase" /><br/><sub><b>Firebase</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="65" alt="docker" title="Docker" /><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" alt="linux" title="Linux" /><br/><sub><b>Linux</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="65" alt="bash" title="Bash" /><br/><sub><b>Bash</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="65" alt="vercel" title="Vercel" /><br/><sub><b>Vercel</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="65" alt="netlify" title="Netlify" /><br/><sub><b>Netlify</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/git/F05032" height="65" alt="git" title="Git" /><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="65" alt="github" title="GitHub" /><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="65" alt="postman" title="Postman" /><br/><sub><b>Postman</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/jest/C21325" height="65" alt="jest" title="Jest" /><br/><sub><b>Jest</b></sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/npm/CB3837" height="65" alt="npm" title="npm" /><br/><sub><b>npm</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" title="Redux" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind" title="Tailwind CSS" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/sass/CC6699" alt="Sass" title="Sass" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" title="Node.js" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express" title="Express" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" title="NestJS" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/socketdotio/FFFFFF" alt="Socket.IO" title="Socket.IO" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/prisma/FFFFFF" alt="Prisma" title="Prisma" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" title="Supabase" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" title="Vercel" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" title="Netlify" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" title="Jest" /></a>&nbsp;
+  <a href="#"><img width="16%" src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" title="npm" /></a>
+</p>
 
 ## 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
