@@ -21,48 +21,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Strip side panels (radar/pie/stats) from SVGs
-        run: |
-          python3 <<'PY'
-          import glob
-          from xml.etree import ElementTree as ET
-          SVG = "{http://www.w3.org/2000/svg}"
-          ET.register_namespace("", "http://www.w3.org/2000/svg")
-          ET.register_namespace("xlink", "http://www.w3.org/1999/xlink")
-          for path in glob.glob("profile-3d-contrib/*.svg"):
-              try:
-                  tree = ET.parse(path)
-                  root = tree.getroot()
-                  # keep only style + rect (bg) + first <g> (3D bars). drop later <g> (radar, pie, stats).
-                  seen_first_g = False
-                  to_remove = []
-                  for child in list(root):
-                      if child.tag == f"{SVG}g":
-                          if not seen_first_g:
-                              seen_first_g = True
-                          else:
-                              to_remove.append(child)
-                  for el in to_remove:
-                      root.remove(el)
-                  # crop viewBox: bars occupy upper-left area
-                  w = int(float(root.get("width", "1280")))
-                  h = int(float(root.get("height", "850")))
-                  new_w = int(w * 0.72)
-                  new_h = int(h * 0.78)
-                  root.set("width", str(new_w))
-                  root.set("height", str(new_h))
-                  root.set("viewBox", f"0 0 {new_w} {new_h}")
-                  tree.write(path, encoding="utf-8")
-                  print(f"stripped: {path} (removed {len(to_remove)} groups)")
-              except Exception as e:
-                  print(f"skip {path}: {e}")
-          PY
-
       - name: Commit & push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A profile-3d-contrib
           git diff --cached --quiet || git commit -m "chore: update 3d contrib graph"
-          git pull --rebase origin main || true
           git push
