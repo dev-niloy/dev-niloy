@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 320" width="400" height="320">
+  <defs>
+    <clipPath id="round">
+      <rect x="0" y="0" width="400" height="320" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+  <image
+    href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    xlink:href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    width="400" height="320"
+    clip-path="url(#round)"
+    preserveAspectRatio="xMidYMid slice"/>
+</svg>

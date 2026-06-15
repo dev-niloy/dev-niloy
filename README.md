@@ -37,12 +37,10 @@
 
   </td>
     <td width="40%" align="right" valign="middle">
-      <img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+      <img alt="Coding" width="100%" style="border-radius:20px;" src="https://raw.githubusercontent.com/dev-niloy/dev-niloy/main/assets/coding-rounded.svg" />
     </td>
   </tr>
 </table>
-
-## 🤝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞
 
 <p align="center">
   <a href="https://www.facebook.com/niloy.oneo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
