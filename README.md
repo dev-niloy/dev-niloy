@@ -92,6 +92,12 @@
   <a href="#"><img width="10%" src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" title="npm" /></a>
 </p>
 
+<p align="center">
+  <a href="#"><img width="10%" src="https://cdn.simpleicons.org/expo/FFFFFF" alt="Expo" title="Expo" /></a>&nbsp;
+  <a href="#"><img width="10%" src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" title="Android" /></a>&nbsp;
+  <a href="#"><img width="10%" src="https://cdn.simpleicons.org/ios/FFFFFF" alt="iOS" title="iOS" /></a>
+</p>
+
 ## 📊 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
 <table width="100%">
